@@ -8,10 +8,10 @@ driver.maximize_window()
 driver.get(test_url)
 
 driver.implicitly_wait(10)
-first_name = "testFirst3"
-last_name = "testLast3"
+first_name = "testFirst13"
+last_name = "testLast13"
 email_id = first_name+last_name+"@gmail.com"
-telephone = "9999999993"
+telephone = "9999999913"
 password = "Password@123"
 confirm_password = password
 
